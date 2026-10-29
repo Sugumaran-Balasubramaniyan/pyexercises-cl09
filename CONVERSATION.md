@@ -170,3 +170,21 @@ for value in numbers:
 ```
 
 What built-in function gives the square of a number?
+
+---
+## 2026-10-29 11:44, in .
+
+**Me:** how to write a while loop in python
+
+**Tutor:**
+
+A while loop keeps running as long as its condition is True.
+
+```python
+count = 0
+while count < 3:          # TODO: change the condition
+    print("Looping")      # TODO: replace this line
+    count = count + 1     # TODO: decide how to update the variable
+```
+
+What will the loop variable be when the loop stops?
