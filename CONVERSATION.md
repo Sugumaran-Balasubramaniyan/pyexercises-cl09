@@ -33,3 +33,22 @@ for _ in range(5):
 ```
 
 What loop construct are you using here?
+
+---
+## 2026-10-29 09:52, in .
+
+**Me:** How to get user input in python
+
+**Tutor:**
+
+Getting user input in Python is done with the `input()` function.
+
+```python
+# Ask the user for their name
+user_name = input("Enter your name: ")
+
+# Print a greeting using the input
+print("Hello,", user_name)
+```
+
+What does the `input()` function return?
