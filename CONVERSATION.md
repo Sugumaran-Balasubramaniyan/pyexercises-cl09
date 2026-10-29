@@ -52,3 +52,27 @@ print("Hello,", user_name)
 ```
 
 What does the `input()` function return?
+
+---
+## 2026-10-29 09:56, in .
+
+**Me:** How to get user input in python
+
+**Tutor:**
+
+Getting user input is done with the built-in `input()` function.
+
+```python
+# This function asks the user for a number and returns it as an integer
+def ask_for_number():
+    user_text = input("Enter a whole number: ")  # TODO: replace the prompt text
+    number = int(user_text)                      # TODO: handle possible errors here
+    return number
+
+# This function asks the user for a yes/no answer and returns True or False
+# --- cut by the tutor: One function per answer. The next one is yours to write ---
+```
+
+What does the expression `answer == "yes"` return when the user types “yes”?
+
+*Cut by the tutor: One function per answer. The next one is yours to write.*
