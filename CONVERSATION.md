@@ -76,3 +76,21 @@ def ask_for_number():
 What does the expression `answer == "yes"` return when the user types “yes”?
 
 *Cut by the tutor: One function per answer. The next one is yours to write.*
+
+---
+## 2026-10-29 10:17, in .
+
+**Me:** How to add numbers in python
+
+**Tutor:**
+
+**Concept:** Adding numbers in Python using the built-in `sum()` function.
+
+```python
+# TODO: Replace the list below with your numbers
+numbers = [1, 2, 3, 4, 5]
+total = sum(numbers)
+print(total)  # Output: 15
+```
+
+What is the argument that `sum()` expects?

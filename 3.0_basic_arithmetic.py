@@ -49,4 +49,10 @@ print("The difference of two numbers is: ", diff)
 product =  number_1 * number_2
 print("The product of two numbers is: ", product)
 
+# division of two numbers
+if number_2 != 0:
+    div = number_1 / number_2
+    print("The division of two numbers is: ", div)
+else:
+    print("The second number is 0")
 
