@@ -130,3 +130,43 @@ print(___)
 ```
 
 What argument does `.sort()` take to sort in descending order?
+
+---
+## 2026-10-29 11:30, in .
+
+**Me:** How to write a for loop in python
+
+**Tutor:**
+
+A for loop iterates over a sequence (list, string, etc.) and executes a block of code for each item.
+
+Pattern:
+```python
+# TODO: replace 'items' with your list or range
+items = ["alpha", "beta", "gamma"]
+for item in items:
+    # TODO: write what to do with each item
+    print(item)
+```
+
+What is the correct keyword to start a for loop in Python?
+
+---
+## 2026-10-29 11:33, in .
+
+**Me:** How to write a for loop in python
+
+**Tutor:**
+
+A for loop repeats actions for each item in a sequence.
+
+```python
+# Loop over a list of toy numbers
+numbers = [2, 4, 6]
+
+for value in numbers:
+    # TODO: print the square of each value
+    pass
+```
+
+What built-in function gives the square of a number?
