@@ -94,3 +94,39 @@ print(total)  # Output: 15
 ```
 
 What is the argument that `sum()` expects?
+
+---
+## 2026-10-29 10:51, in .
+
+**Me:** jfjdsafl
+
+**Tutor:**
+
+Refused, off topic.
+
+---
+## 2026-10-29 11:04, in .
+
+**Me:** how to sort a list in python
+
+**Tutor:**
+
+Sorting a list in Python.
+
+Use the built-in `sorted()` function or the list method `.sort()`.
+`sorted()` returns a new list; `.sort()` modifies the list in place.
+
+Pattern with `.sort()`:
+
+```python
+# TODO: create a list of numbers
+numbers = [3, 1, 4]
+
+# TODO: call the list method to sort it
+numbers.___
+
+# TODO: print the sorted list
+print(___)
+```
+
+What argument does `.sort()` take to sort in descending order?
