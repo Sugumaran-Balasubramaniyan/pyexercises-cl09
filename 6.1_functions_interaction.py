@@ -35,3 +35,36 @@ DELIVERABLE
 
 
 # Your code below
+def is_even(number):
+    """True when the number divides by two exactly."""
+    return number % 2 == 0
+
+def is_zero(number):
+    """True when the number is zero."""
+    return number == 0
+
+
+def is_positive(num):
+    return num > 0
+
+def is_negative(num):
+    return num < 0
+
+
+def detailed_message(num):
+    if is_zero(num):
+        return "The number is zero."
+    elif is_positive(num):
+        return "The number is positive."
+    elif is_negative(num):
+        return "The number is negative."
+    elif is_even(num):
+        return "The number is even."
+    else:
+        return "The number is odd."
+
+number = 6
+print(detailed_message(number))
+
+print(detailed_message(-4))
+
