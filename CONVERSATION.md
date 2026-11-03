@@ -188,3 +188,22 @@ while count < 3:          # TODO: change the condition
 ```
 
 What will the loop variable be when the loop stops?
+
+---
+## 2026-10-29 11:46, in .
+
+**Me:** how to write a while loop in python
+
+**Tutor:**
+
+A while loop runs a block of code as long as a condition is True.
+
+```python
+# TODO: change the condition so the loop stops after 3 prints
+count = 0
+while count < 3:
+    print("Looping")
+    count = count + 1
+```
+
+What is the name of the variable that controls how many times the loop runs?
