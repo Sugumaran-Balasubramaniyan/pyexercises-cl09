@@ -207,3 +207,12 @@ while count < 3:
 ```
 
 What is the name of the variable that controls how many times the loop runs?
+
+---
+## 2026-11-03 13:54, in .
+
+**Me:** Hi what is pyhon
+
+**Tutor:**
+
+Refused, off topic.
